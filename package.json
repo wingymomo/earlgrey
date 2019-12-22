@@ -1,0 +1,21 @@
+{
+    "name": "earlgrey",
+    "displayName": "earlgrey",
+    "description": "A plain color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Earl Grey",
+                "uiTheme": "vs",
+                "path": "./themes/Earl Grey-color-theme.json"
+            }
+        ]
+    }
+}
